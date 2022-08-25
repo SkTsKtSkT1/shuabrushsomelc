@@ -1,4 +1,7 @@
 # idea files
 /.idea/
+/cmake-build-debug/
 
+#log file
 
+*.log
