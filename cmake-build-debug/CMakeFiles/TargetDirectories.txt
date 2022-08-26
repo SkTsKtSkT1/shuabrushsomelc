@@ -1,3 +1,0 @@
-D:/jetbrainsProject/CLion/Cpp/Algorithm/cmake-build-debug/CMakeFiles/Algorithm.dir
-D:/jetbrainsProject/CLion/Cpp/Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/jetbrainsProject/CLion/Cpp/Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
