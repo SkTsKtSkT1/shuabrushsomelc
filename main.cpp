@@ -1,11 +1,10 @@
 #include <iostream>
 #include <vector>
-#include "leetcode665.h"
+#include "leetcode793.h"
 
 int main() {
-    leetcode665 lc665;
-    std::vector<int> nums={-1,4,2,3};
-    std::cout<<lc665.checkPossibility(nums)<<std::endl;
+    leetcode793 lc793;
+    std::cout<<lc793.preimageSizeFZF(3)<<std::endl;
 
     return 0;
 }
