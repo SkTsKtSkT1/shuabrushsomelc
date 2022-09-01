@@ -1,12 +1,14 @@
 #include <iostream>
-#include <vector>
-#include "leetcode946.h"
+
+#include "simple/leetcode1475.h"
 
 int main() {
-    leetcode946 lc946;
-    std::vector<int> pushed={1,2,3,4,5};
-    std::vector<int> poped={4,5,3,2,1};
-    std::cout<<lc946.validateStackSequences(pushed,poped);
+    leetcode1475 lc1475;
+    std::vector<int> prices={10,1,1,6};
+    std::vector<int> result=lc1475.finalPrices(prices);
+    for(std::vector<int>::iterator _=result.begin();_!=result.end();_++){
+        std::cout<<*_<<" ";
+    }
     return 0;
 }
 
