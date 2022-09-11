@@ -1,13 +1,18 @@
 #include <iostream>
 
-#include "leetcode857.h"
+#include "simple/leetcode1608.h"
 
 int main() {
-    leetcode857 lc857;
-    vector<int> quality={10,20,5};
-    vector<int> wage={70,50,30};
-    int k=2;
-    std::cout<<lc857.mincostToHireWorkers(quality,wage,k)<<std::endl;
+    leetcode1608 lc1608;
+    vector<vector<int>> test={
+            {3,5},
+            {0,0},
+            {0,4,3,0,4},
+            {3,6,7,7,0}
+    };
+    for(auto & i : test){
+        std::cout << lc1608.specialArray(i) << std::endl;
+    }
     return 0;
 }
 
