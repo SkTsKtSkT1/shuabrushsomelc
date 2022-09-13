@@ -1,17 +1,13 @@
 #include <iostream>
 
-#include "simple/leetcode1608.h"
+#include "leetcode670.h"
 
 int main() {
-    leetcode1608 lc1608;
-    vector<vector<int>> test={
-            {3,5},
-            {0,0},
-            {0,4,3,0,4},
-            {3,6,7,7,0}
-    };
-    for(auto & i : test){
-        std::cout << lc1608.specialArray(i) << std::endl;
+    leetcode670 lc670;
+    int num=0;
+    while(num!=-1){
+        std::cin>>num;
+        std::cout<<lc670.maximumSwap(num)<<std::endl;
     }
     return 0;
 }
