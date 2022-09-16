@@ -45,4 +45,5 @@ std::ostream &leetcode2389::operator<<(const vector<int> &nums) {
     for(vector<int>::const_iterator _=nums.begin();_!=nums.end();_++){
         std::cout<<*_<<" "<<std::endl;
     }
+
 }
