@@ -1,14 +1,12 @@
 #include <iostream>
-#include "leetcode827.h"
+#include "simple/leetcode1636.h"
 
 
 int main() {
-    leetcode827 lc827;
-    vector<vector<int>> grid={
-            {0,1},
-            {1,1}
-    };
-    std::cout<<lc827.largestIsland(grid)<<std::endl;
+    leetcode1636 lc1636;
+    vector<int> nums={1,1,2,2,2,3};
+    //vector<int> result=lc1636.frequencySort(nums);
+    lc1636<<lc1636.frequencySort(nums);
     return 0;
 }
 
