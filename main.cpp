@@ -1,5 +1,4 @@
 #include <iostream>
-
 #include "leetcode827.h"
 
 
