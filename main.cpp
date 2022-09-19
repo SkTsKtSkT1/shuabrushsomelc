@@ -1,12 +1,12 @@
 #include <iostream>
-#include "simple/leetcode1636.h"
+#include "dfswithcutleaf/leetcode698.h"
 
 
 int main() {
-    leetcode1636 lc1636;
-    vector<int> nums={1,1,2,2,2,3};
-    //vector<int> result=lc1636.frequencySort(nums);
-    lc1636<<lc1636.frequencySort(nums);
+    leetcode698 lc698;
+    vector<int> nums{4,3,2,3,5,2,1};
+    int k=4;
+    std::cout<<lc698.canPartitionKSubsets(nums,k)<<std::endl;
     return 0;
 }
 
