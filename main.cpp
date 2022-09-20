@@ -1,12 +1,12 @@
 #include <iostream>
-#include "dfswithcutleaf/leetcode698.h"
+#include "dfswithcutleaf/leetcode854.h"
 
 
 int main() {
-    leetcode698 lc698;
-    vector<int> nums{4,3,2,3,5,2,1};
-    int k=4;
-    std::cout<<lc698.canPartitionKSubsets(nums,k)<<std::endl;
+    leetcode854 lc854;
+    string s1="abc";
+    string s2="bca";
+    std::cout<<lc854.kSimilarity(s1,s2)<<std::endl;
     return 0;
 }
 
