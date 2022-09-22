@@ -1,12 +1,16 @@
 #include <iostream>
-#include "dfswithcutleaf/leetcode854.h"
+#include "simple/leetcode1640.h"
 
 
 int main() {
-    leetcode854 lc854;
-    string s1="abc";
-    string s2="bca";
-    std::cout<<lc854.kSimilarity(s1,s2)<<std::endl;
+    leetcode1640 lc1640;
+    vector<int> arr={91,4,64,78};
+    vector<vector<int>> pieces={
+            {78},
+            {4,64},
+            {91}
+    };
+    std::cout<<lc1640.canFormArray(arr,pieces)<<std::endl;
     return 0;
 }
 
