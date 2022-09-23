@@ -1,16 +1,20 @@
 #include <iostream>
-#include "simple/leetcode1640.h"
+#include "LinkList/leetcode707.h"
 
 
 int main() {
-    leetcode1640 lc1640;
-    vector<int> arr={91,4,64,78};
-    vector<vector<int>> pieces={
-            {78},
-            {4,64},
-            {91}
-    };
-    std::cout<<lc1640.canFormArray(arr,pieces)<<std::endl;
+    MyLinkedList* myLinkedList=new MyLinkedList();
+    myLinkedList->printLinkedList();
+    myLinkedList->addAtIndex(0,10);
+    myLinkedList->printLinkedList();
+    myLinkedList->addAtIndex(0,20);
+    myLinkedList->printLinkedList();
+    myLinkedList->addAtIndex(1,30);
+    myLinkedList->printLinkedList();
+    std::cout<<myLinkedList->get(0)<<std::endl;
+    myLinkedList->printLinkedList();
     return 0;
+
+
 }
 
