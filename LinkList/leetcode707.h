@@ -35,7 +35,7 @@ public:
     void addAtTail(int val);
     void addAtIndex(int index, int val);
     void deleteAtIndex(int index);
-    //void printLinkedList();
+    void printLinkedList();
 private:
     int _size;
     ListNode* _dummyHead;

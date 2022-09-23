@@ -1,18 +1,12 @@
 #include <iostream>
-#include "LinkList/leetcode707.h"
+#include "simple/leetcode1652.h"
 
 
 int main() {
-    MyLinkedList* myLinkedList=new MyLinkedList();
-    myLinkedList->printLinkedList();
-    myLinkedList->addAtIndex(0,10);
-    myLinkedList->printLinkedList();
-    myLinkedList->addAtIndex(0,20);
-    myLinkedList->printLinkedList();
-    myLinkedList->addAtIndex(1,30);
-    myLinkedList->printLinkedList();
-    std::cout<<myLinkedList->get(0)<<std::endl;
-    myLinkedList->printLinkedList();
+    leetcode1652 lc1652;
+    vector<int> code={2,4,9,3};
+    int k=-2;
+    lc1652<<lc1652.decrypt(code,k);
     return 0;
 
 
