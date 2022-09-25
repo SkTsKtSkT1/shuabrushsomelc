@@ -1,12 +1,10 @@
 #include <iostream>
-#include "simple/leetcode1652.h"
+#include "leetcode788.h"
 
 
 int main() {
-    leetcode1652 lc1652;
-    vector<int> code={2,4,9,3};
-    int k=-2;
-    lc1652<<lc1652.decrypt(code,k);
+    leetcode788 lc788;
+    std::cout<<lc788.rotatedDigits(2)<<std::endl;
     return 0;
 
 
