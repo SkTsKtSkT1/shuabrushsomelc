@@ -1,10 +1,11 @@
 #include <iostream>
-#include "leetcode788.h"
+#include "mianshi/mianshi17_19.h"
 
 
 int main() {
-    leetcode788 lc788;
-    std::cout<<lc788.rotatedDigits(2)<<std::endl;
+    mianshi17_19 ms1719;
+    vector<int> nums={1};
+    ms1719<<ms1719.missingTwo(nums);
     return 0;
 
 
