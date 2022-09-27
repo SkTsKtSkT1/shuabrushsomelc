@@ -1,11 +1,12 @@
 #include <iostream>
-#include "mianshi/mianshi17_19.h"
+#include "mianshi/mianshi01_02.h"
 
 
 int main() {
-    mianshi17_19 ms1719;
-    vector<int> nums={1};
-    ms1719<<ms1719.missingTwo(nums);
+    mianshi01_02 ms0102;
+    string s1="abc";
+    string s2="acb";
+    std::cout<<ms0102.checkPremutation(s1,s2)<<std::endl;
     return 0;
 
 
