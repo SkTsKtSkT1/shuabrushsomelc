@@ -18,9 +18,11 @@ int mianshi17_09::getKthMagicNumber(int k) {
         dp[i]=std::min<int>({dp[index3]*3,dp[index5]*5,dp[index7]*7});
         if(dp[i]==dp[index3]*3){
             index3++;
-        }else if(dp[i]==dp[index5]*5){
+        }
+        if(dp[i]==dp[index5]*5){
             index5++;
-        }else{
+        }
+        if(dp[i]==dp[index7]*7){
             index7++;
         }
     }
