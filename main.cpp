@@ -1,13 +1,12 @@
 #include <iostream>
-#include "mianshi/mianshi17_09.h"
+#include "mianshi/mianshi01_09.h"
 
 
 int main() {
-    mianshi17_09 ms1709;
-    int k=10;
-    for(int i=1;i<=k;i++){
-        std::cout << ms1709.getKthMagicNumber(i) << std::endl;
-    }
+    mianshi01_09 ms0109;
+    string s1="waterbottle";
+    string s2="erbottlewat";
+    std::cout<<ms0109.isFlipedString(s1,s2)<<std::endl;
     return 0;
 
 
