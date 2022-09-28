@@ -1,12 +1,13 @@
 #include <iostream>
-#include "mianshi/mianshi01_02.h"
+#include "mianshi/mianshi17_09.h"
 
 
 int main() {
-    mianshi01_02 ms0102;
-    string s1="abc";
-    string s2="acb";
-    std::cout<<ms0102.checkPremutation(s1,s2)<<std::endl;
+    mianshi17_09 ms1709;
+    int k=10;
+    for(int i=1;i<=k;i++){
+        std::cout << ms1709.getKthMagicNumber(i) << std::endl;
+    }
     return 0;
 
 
