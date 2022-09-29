@@ -1,12 +1,16 @@
 #include <iostream>
-#include "mianshi/mianshi01_09.h"
+#include "mianshi/mianshi01_08.h"
 
 
 int main() {
-    mianshi01_09 ms0109;
-    string s1="waterbottle";
-    string s2="erbottlewat";
-    std::cout<<ms0109.isFlipedString(s1,s2)<<std::endl;
+    mianshi01_08 ms0108;
+    vector<vector<int>> matrix={
+            {0,1,2,0},
+            {3,4,5,2},
+            {1,3,1,5}
+    };
+    ms0108.setZeroes(matrix);
+    ms0108<<matrix;
     return 0;
 
 
