@@ -1,18 +1,11 @@
 #include <iostream>
-#include "mianshi/mianshi01_08.h"
+#include "simple/leetcode1694.h"
 
 
 int main() {
-    mianshi01_08 ms0108;
-    vector<vector<int>> matrix={
-            {0,1,2,0},
-            {3,4,5,2},
-            {1,3,1,5}
-    };
-    ms0108.setZeroes(matrix);
-    ms0108<<matrix;
+    leetcode1694 lc1964;
+    string test="123 4-567";
+    std::cout<<lc1964.reformatNumber1(test)<<std::endl;
     return 0;
-
-
 }
 
