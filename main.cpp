@@ -1,12 +1,11 @@
 #include <iostream>
-#include "leetcode777.h"
+#include "simple/leetcode1784.h"
 
 
 int main() {
-    leetcode777 lc777;
-    string start="RXXLRXRXL";
-    string end="XRLXXRRLX";
-    std::cout<<lc777.canTransform(start,end)<<std::endl;
+    leetcode1784 lc1784;
+    string s="1001";
+    std::cout<<lc1784.checkOnesSegment(s)<<std::endl;
     return 0;
 }
 
