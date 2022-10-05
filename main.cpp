@@ -1,12 +1,12 @@
 #include <iostream>
-#include "leetcode811.h"
+#include "leetcode927.h"
 
 
 int main() {
-    leetcode811 lc811;
-    vector<string> cpdomains={"9001 discuss.leetcode.com"};
-    vector<string>ans=lc811.subdomainVisits(cpdomains);
-    std::cout<<std::endl;
+    leetcode927 lc927;
+    vector<int> arr={1,1,0,1,1,1,0,1};
+    vector<int> result=lc927.threeEqualParts(arr);
+    std::cout<<result[0]<<" "<<result[1]<<std::endl;
     return 0;
 }
 
