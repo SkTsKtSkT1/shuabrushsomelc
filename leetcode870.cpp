@@ -3,7 +3,7 @@
 //
 
 #include "leetcode870.h"
-
+#include "numeric"
 vector<int> leetcode870::advantageCount(vector<int> &nums1, vector<int> &nums2) {
     int n = nums1.size();
     vector<int> idx1(n), idx2(n);
