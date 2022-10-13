@@ -1,12 +1,12 @@
 #include <iostream>
-#include "simple/leetcode1790.h"
+#include "leetcode769.h"
 
 
 int main() {
-    leetcode1790 lc1790;
-    string s1="kelb";
-    string s2="kelb";
-    std::cout<<lc1790.areAlmostEqual(s1,s2)<<std::endl;
+    leetcode769 lc769;
+    vector<int> arr={1,2,0,3};
+    //vector<int> arr={1,0,2,3,4};
+    std::cout<<lc769.maxChunksToSorted(arr)<<std::endl;
     return 0;
 }
 
