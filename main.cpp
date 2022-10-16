@@ -1,12 +1,11 @@
 #include <iostream>
-#include "leetcode1441.h"
+#include "leetcode904.h"
 
 
 int main() {
-    leetcode1441 lc1441;
-    vector<int> target={1,2};
-    int n=4;
-    lc1441<<lc1441.buildArray(target,n);
+    leetcode904 lc904;
+    vector<int> fruits={1,2,3,2,2};
+    std::cout<<lc904.totalFruit(fruits)<<std::endl;
     return 0;
 }
 
