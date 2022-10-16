@@ -1,12 +1,18 @@
 #include <iostream>
-#include "leetcode1441.h"
+#include "leetcode886.h"
 
 
 int main() {
-    leetcode1441 lc1441;
-    vector<int> target={1,2};
-    int n=4;
-    lc1441<<lc1441.buildArray(target,n);
+    leetcode886 lc886;
+    vector<vector<int>> dislikes={
+            {1,2},
+            {2,3},
+            {3,4},
+            {4,5},
+            {5,1}
+    };
+    int n=5;
+    std::cout<<lc886.possibelBipartitin(n,dislikes)<<std::endl;
     return 0;
 }
 
