@@ -1,11 +1,12 @@
 #include <iostream>
-#include "leetcode904.h"
+#include "leetcode902.h"
 
 
 int main() {
-    leetcode904 lc904;
-    vector<int> fruits={1,2,3,2,2};
-    std::cout<<lc904.totalFruit(fruits)<<std::endl;
+    leetcode902 lc902;
+    int n=8;
+    vector<string> digits={"7"};
+    std::cout<<lc902.atMostNGivenDigitSet(digits,n)<<std::endl;
     return 0;
 }
 
