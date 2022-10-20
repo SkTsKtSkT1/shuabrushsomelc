@@ -1,12 +1,12 @@
 #include <iostream>
-#include "leetcode902.h"
+#include "leetcode779.h"
 
 
 int main() {
-    leetcode902 lc902;
-    int n=8;
-    vector<string> digits={"7"};
-    std::cout<<lc902.atMostNGivenDigitSet(digits,n)<<std::endl;
+    leetcode779 lc779;
+    int n=4;
+    int k=4;
+    std::cout<<lc779.kthGrammar(n,k)<<std::endl;
     return 0;
 }
 
