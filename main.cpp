@@ -1,9 +1,9 @@
 #include <iostream>
-#include "leetcode779.h"
+#include "leetcode901.h"
 
 
 int main() {
-    leetcode779 lc779;
+    leetcode901 lc901;
     int n=4;
     int k=4;
     std::cout<<lc779.kthGrammar(n,k)<<std::endl;
