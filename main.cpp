@@ -1,8 +1,11 @@
 #include <iostream>
-#include "leetcode934.h"
+#include "leetcode862.h"
 
 int main() {
-    leetcode934 lc934;
+    leetcode862 lc862;
+    vector<int> nums;
+    int k;
+    std::cout<<lc862.shortestSubarray(nums,k)<<std::endl;
 
     return 0;
 }
