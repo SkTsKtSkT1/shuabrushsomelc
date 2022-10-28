@@ -3,7 +3,7 @@
 //
 
 #include "leetcode862.h"
-
+#include "math.h"
 int leetcode862::shortestSubarray(vector<int> &nums, int k) {
     //pre 前缀和
     vector<long> preSum(nums.size()+1,0);

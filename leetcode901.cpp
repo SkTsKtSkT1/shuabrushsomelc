@@ -3,7 +3,7 @@
 //
 
 #include "leetcode901.h"
-
+#include "math.h"
 //单调栈
 StockSpanner::StockSpanner() {
     this->index=-1;
