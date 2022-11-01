@@ -1,11 +1,11 @@
 #include <iostream>
-#include "leetcode907.h"
+#include "simple/leetcode1662.h"
 
 int main() {
-    leetcode907 lc907;
-    vector<int> arr={3,1,2,4};
-    std::cout<<lc907.sumSubarrayMins(arr)<<std::endl;
-
+    leetcode1662 lc1662;
+    vector<string> word1={"ab","c"};
+    vector<string> word2={"a","bc"};
+    std::cout<<lc1662.arrayStringsAreEqual(word1,word2)<<std::endl;
     return 0;
 }
 
