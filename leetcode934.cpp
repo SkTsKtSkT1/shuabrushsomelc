@@ -26,28 +26,28 @@ int leetcode934::shortestBridge(vector<vector<int>> &grid) {
     while(!seaPoints.empty()){
         int size=seaPoints.size();
         ans++;
-        while(size--){
+        while(size--) {
             //seaPoints coordination
-            int x=seaPoints.front().first;
-            int y=seaPoints.front().second;
+            int x = seaPoints.front().first;
+            int y = seaPoints.front().second;
             seaPoints.pop();
             //先把这个填为2，在加入其周围的海
-            grid[x][y]=2;
-            for(int k=0;k<4;k++){
-                int dx=x+xDir[k];
-                int dy=y+yDir[k];
-                if(dx>=0 && dx<m && dy>=0 && dy<n){
-                    if(grid[dx][dy]==2) continue;
-                    else if(grid[dx][dy]==1) return ans;
-                    else if(grid[dx][dy]==0) {
-                        seaPoints.emplace(dx,dy);
-                        grid[dx][dy]=2;//avoid some point be added more than once;
+            grid[x][y] = 2;
+            for (int k = 0; k < 4; k++) {
+                int dx = x + xDir[k];
+                int dy = y + yDir[k];
+                if (dx >= 0 && dx < m && dy >= 0 && dy < n) {
+                    if (grid[dx][dy] == 2) continue;
+                    else if (grid[dx][dy] == 1) return ans;
+                    else if (grid[dx][dy] == 0) {
+                        seaPoints.emplace(dx, dy);
+                        grid[dx][dy] = 2;//avoid some point be added more than once;
                     }
                 }
             }
         }
-        return ans;
     }
+    return ans;
 }
 
 

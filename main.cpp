@@ -1,11 +1,11 @@
 #include <iostream>
-#include "simple/leetcode1662.h"
+#include "simple/leetcode1688.h"
 
 int main() {
-    leetcode1662 lc1662;
-    vector<string> word1={"ab","c"};
-    vector<string> word2={"a","bc"};
-    std::cout<<lc1662.arrayStringsAreEqual(word1,word2)<<std::endl;
+    leetcode1688 lc1688;
+    string sequence="aaaaabaaa";
+    string word="a";
+    std::cout<<lc1688.maxRepeating(sequence,word)<<std::endl;
     return 0;
 }
 
