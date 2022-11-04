@@ -1,11 +1,9 @@
 #include <iostream>
-#include "simple/leetcode1688.h"
+#include "leetcode754.h"
 
 int main() {
-    leetcode1688 lc1688;
-    string sequence="aaaaabaaa";
-    string word="a";
-    std::cout<<lc1688.maxRepeating(sequence,word)<<std::endl;
+    leetcode754 lc754;
+
     return 0;
 }
 
