@@ -1,8 +1,10 @@
 #include <iostream>
-#include "leetcode754.h"
+#include "leetcode1106.h"
 
 int main() {
-    leetcode754 lc754;
+    leetcode1106 lc1106;
+    string expression="|(&(t,f,t),!(t))";
+    std::cout<<lc1106.parseBoolExpr(expression)<<std::endl;
 
     return 0;
 }

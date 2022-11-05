@@ -2,6 +2,7 @@
 // Created by skt on 2022/11/3.
 //
 
+#include <algorithm>
 #include "leetcode1688.h"
 
 int leetcode1688::maxRepeating(std::string sequence, std::string word) {
