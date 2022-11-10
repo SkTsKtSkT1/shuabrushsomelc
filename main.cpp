@@ -1,11 +1,11 @@
 #include <iostream>
-#include "leetcode1106.h"
+#include "leetcode864.h"
 
 int main() {
-    leetcode1106 lc1106;
-    string expression="|(&(t,f,t),!(t))";
-    std::cout<<lc1106.parseBoolExpr(expression)<<std::endl;
-
+    leetcode864 lc864;
+    vector<string> grid=
+            {{"@.a.."}, {"###.#"}, {"b.A.B"}};
+    std::cout<<lc864.shortestPathAllKeys(grid)<<std::endl;
     return 0;
 }
 
