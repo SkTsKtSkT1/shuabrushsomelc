@@ -1,11 +1,11 @@
 #include <iostream>
-#include "leetcode864.h"
+#include "leetcode791.h"
 
 int main() {
-    leetcode864 lc864;
-    vector<string> grid=
-            {{"@.a.."}, {"###.#"}, {"b.A.B"}};
-    std::cout<<lc864.shortestPathAllKeys(grid)<<std::endl;
+    leetcode791 lc791;
+    string order="cba";
+    string s="abcd";
+    std::cout<<lc791.customSortString(order,s)<<std::endl;
     return 0;
 }
 
