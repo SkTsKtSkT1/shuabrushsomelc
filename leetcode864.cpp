@@ -4,6 +4,7 @@
 
 #include "leetcode864.h"
 #include "queue"
+#include "tuple"
 int leetcode864::shortestPathAllKeys(vector<std::string> &grid) {
     //using a int to represents the keys
     //int keyState=0; // 00000000

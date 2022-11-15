@@ -1,11 +1,13 @@
 #include <iostream>
-#include "leetcode791.h"
+#include "simple/leetcode1710.h"
 
 int main() {
-    leetcode791 lc791;
-    string order="cba";
-    string s="abcd";
-    std::cout<<lc791.customSortString(order,s)<<std::endl;
+    leetcode1710 lc1710;
+    vector<vector<int>> boxTypes={
+            {1,3},{3,1},{2,2}
+    };
+    int truckSize=4;
+    std::cout<<lc1710.maximumUnits(boxTypes,truckSize)<<std::endl;
     return 0;
 }
 

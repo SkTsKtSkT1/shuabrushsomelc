@@ -4,6 +4,7 @@
 
 #include "leetcode791.h"
 #include "unordered_map"
+#include "algorithm"
 //string leetcode791::customSortString(std::string order, std::string s) {
 //    //使用char,int存储order信息，然后遍历s，找到没有的统统加在后面
 //    std::unordered_map<char,int> m;
@@ -39,7 +40,7 @@ string leetcode791::customSortString(std::string order, std::string s) {
             m[c]=27;
         }
     }
-    std::sort(s.begin(),s.end(),[&](char a,char b)->bool {
+    sort(s.begin(),s.end(),[&](char a,char b)->bool {
         return m[a]<m[b];
     });
     return s;
