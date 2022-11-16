@@ -1,13 +1,11 @@
 #include <iostream>
-#include "simple/leetcode1710.h"
+#include "leetcode792.h"
 
 int main() {
-    leetcode1710 lc1710;
-    vector<vector<int>> boxTypes={
-            {1,3},{3,1},{2,2}
-    };
-    int truckSize=4;
-    std::cout<<lc1710.maximumUnits(boxTypes,truckSize)<<std::endl;
+    leetcode792 lc792;
+    vector<string> words={"a","bb","acd","ace"};
+    string s="abcde";
+    std::cout<<lc792.numMatchingSubseq(s,words)<<std::endl;
     return 0;
 }
 
