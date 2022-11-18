@@ -5,7 +5,7 @@
 #include "leetcode775.h"
 #include "cmath"
 bool leetcode775::isIdealPermutation(vector<int> &nums) {
-    //要求一个局部倒置就是一个全局倒置，也就是倒置的长度应该为2； 思路对了但是超时了。。
+//要求一个局部倒置就是一个全局倒置，也就是倒置的长度应该为2； 思路对了但是超时了。。
 //    for(int i=0;i<nums.size()-1;i++){
 //        for(int j=i+2;j<nums.size();j++){
 //            if(nums[j]<nums[i]) return false;
