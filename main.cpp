@@ -1,11 +1,11 @@
 #include <iostream>
-#include "leetcode792.h"
+#include "leetcode808.h"
 
 int main() {
-    leetcode792 lc792;
-    vector<string> words={"a","bb","acd","ace"};
-    string s="abcde";
-    std::cout<<lc792.numMatchingSubseq(s,words)<<std::endl;
+    leetcode808 lc808;
+    int n=100;
+    //std::cout<<lc808.findUpper()<<std::endl;
+    std::cout<<lc808.soupServings(n)<<std::endl;
     return 0;
 }
 
