@@ -1,14 +1,12 @@
 #include <iostream>
-#include "leetcode795.h"
+#include "leetcode813.h"
 
 int main() {
-   leetcode795 lc795;
+   leetcode813 lc813;
 
-   vector<int> nums={2,1,4,3};
-   int left=2;
-   int right=3;
-
-   std::cout<<lc795.numSubarrayBoundedMax(nums,left,right);
+   vector<int> nums={4,1,7,5,6,2,3};
+    int k=4;
+   std::cout<<lc813.largestSumOfAverages(nums,k);
    return 0;
 }
 
