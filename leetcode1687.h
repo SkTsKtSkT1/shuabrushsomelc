@@ -9,7 +9,7 @@ using std::vector;
 
 class leetcode1687 {
 public:
-    int boxDelivering(vector<vector<int>>& boxes, int portsCount, int maxBoxes, int maxWeight)
+    int boxDelivering(vector<vector<int>>& boxes, int portsCount, int maxBoxes, int maxWeight);
 };
 
 
