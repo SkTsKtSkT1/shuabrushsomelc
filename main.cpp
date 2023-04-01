@@ -1,10 +1,11 @@
 #include <iostream>
-#include "simple/leetcode1805.h"
+#include "middle/leetcode831.h"
 
 int main() {
-    leetcode1805 lc1805;
-    string word="a123bc34d8ef34";
-    std::cout<<lc1805.numDifferentIntegers(word);
+    leetcode831 lc831;
+    //string s = "AB@LeetCode.com";
+    string s="86-(10)12345678";
+    std::cout<<lc831.maskPII(s);
     return 0;
 }
 
