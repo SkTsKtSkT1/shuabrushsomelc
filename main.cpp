@@ -1,11 +1,10 @@
 #include <iostream>
-#include "middle/leetcode831.h"
+#include "middle/leetcode1039.h"
 
 int main() {
-    leetcode831 lc831;
-    //string s = "AB@LeetCode.com";
-    string s="86-(10)12345678";
-    std::cout<<lc831.maskPII(s);
+    leetcode1039 lc1039;
+    vector<int> values={3,7,4,5};
+    std::cout<<lc1039.minScoreTriangulation1(values);
     return 0;
 }
 
