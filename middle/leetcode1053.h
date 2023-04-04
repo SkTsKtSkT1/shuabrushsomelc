@@ -5,7 +5,7 @@
 #ifndef ALGORITHM_LEETCODE1053_H
 #define ALGORITHM_LEETCODE1053_H
 #include "vector"
-
+#include "ostream"
 
 using std::vector;
 

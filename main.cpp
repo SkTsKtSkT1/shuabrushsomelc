@@ -1,17 +1,12 @@
 #include <iostream>
-#include "middle/leetcode1053.h"
+#include "hard/leetcode1000.h"
 
 int main() {
-    leetcode1053 lc1053;
-    vector<vector<int>> arr={
-            {3,1,1,3},
-            {3,2,1},
-            {1,1,5},
-            {1,9,4,6,7}
-    };
-    for(vector<int>& a:arr){
-        lc1053<<lc1053.prevPermOpt1(a);
-    }
+    leetcode1000 lc1000;
+    vector<int> stones={3,2,4,1};
+    int k=2;
+    std::cout<<lc1000.mergeStones(stones,k)<<std::endl;
+    std::cout<<lc1000.mergeStones_opt(stones,k);
     return 0;
 }
 

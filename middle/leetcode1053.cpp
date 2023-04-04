@@ -3,7 +3,6 @@
 //
 
 #include "leetcode1053.h"
-#include "ostream"
 #include "iostream"
 //处理方式为：
 

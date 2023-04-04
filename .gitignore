@@ -1,6 +1,7 @@
 # idea files
 /.idea/
 /cmake-build-debug/
+/cmake-build-release/
 
 #log file
 
