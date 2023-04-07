@@ -1,12 +1,10 @@
 #include <iostream>
-#include "middle/leetcode1578.h"
+#include "middle/leetcode1040.h"
 
 int main() {
-    leetcode1578 lc1578;
-    string colors="abaac";
-    vector<int> neededTime={1,2,3,4,5};
-
-    std::cout<<lc1578.minCost(colors,neededTime);
+    leetcode1040 lc1040;
+    vector<int> stones={1, 6, 7, 8};
+    lc1040<<lc1040.numMovesStonesII(stones);
     return 0;
 }
 
