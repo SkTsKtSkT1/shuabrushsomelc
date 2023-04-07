@@ -1,10 +1,16 @@
 #include <iostream>
-#include "middle/leetcode1040.h"
+#include "hard/leetcode1125.h"
 
 int main() {
-    leetcode1040 lc1040;
-    vector<int> stones={1, 6, 7, 8};
-    lc1040<<lc1040.numMovesStonesII(stones);
+    leetcode1125 lc1125;
+    vector<string> req_skills = {"java","nodejs","reactjs"};
+    vector<vector<string>> people={
+            {"java"},
+            {"nodejs"},
+            {"nodejs","reactjs"}
+    };
+
+    lc1125<<lc1125.smallestSufficientTeam(req_skills,people);
     return 0;
 }
 
