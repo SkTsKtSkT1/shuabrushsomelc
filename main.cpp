@@ -1,16 +1,11 @@
 #include <iostream>
-#include "hard/leetcode1125.h"
+#include "simple/leetcode2399.h"
 
 int main() {
-    leetcode1125 lc1125;
-    vector<string> req_skills = {"java","nodejs","reactjs"};
-    vector<vector<string>> people={
-            {"java"},
-            {"nodejs"},
-            {"nodejs","reactjs"}
-    };
-
-    lc1125<<lc1125.smallestSufficientTeam(req_skills,people);
+    leetcode2399 lc2399;
+    vector<int> distance={49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
+    string s="abbccddeeffgghhiijjkkllmmnnooppqqrrssttuuvvwwxxyyzza";
+    std::cout<< lc2399.checkDistances(s,distance);
     return 0;
 }
 
