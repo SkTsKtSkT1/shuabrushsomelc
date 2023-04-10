@@ -1,11 +1,11 @@
 #include <iostream>
-#include "simple/leetcode2399.h"
+#include "middle/leetcode1019.h"
 
 int main() {
-    leetcode2399 lc2399;
-    vector<int> distance={49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
-    string s="abbccddeeffgghhiijjkkllmmnnooppqqrrssttuuvvwwxxyyzza";
-    std::cout<< lc2399.checkDistances(s,distance);
+    leetcode1019 lc1019;
+    vector<int> input={5,5,2}; //552 //33 //[9,7,6,7,6,9]
+    ListNode* head= lc1019.construct_list(input);
+    lc1019<<lc1019.nextLargerNodes(head);
     return 0;
 }
 
