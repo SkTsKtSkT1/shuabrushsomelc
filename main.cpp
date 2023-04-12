@@ -1,10 +1,10 @@
 #include <iostream>
-#include "middle/leetcode1041.h"
+#include "hard/leetcode1147.h"
 
 int main() {
-    leetcode1041 lc1041;
-    string instructions = "GGLLGG";
-    std::cout<<lc1041.isRobotBounded(instructions)<<std::endl;
+    leetcode1147 lc1147;
+    string text = "ghiabcdefhelloadamhelloabcdefghi";
+    std::cout<<lc1147.longestDecomposition(text)<<std::endl;
     return 0;
 }
 
