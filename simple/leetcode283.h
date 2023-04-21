@@ -9,7 +9,7 @@ using std::vector;
 
 class leetcode283 {
 public:
-    void moveZeroes(vector<int>& nums)
+    void moveZeroes(vector<int>& nums);
 };
 
 

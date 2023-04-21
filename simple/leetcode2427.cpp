@@ -17,5 +17,5 @@ int leetcode2427::commonFactors(int a, int b) {
 
 
 int leetcode2427::gcd(int a, int b) {
-    return b? gcd(a,a%b):a;
+    return b? gcd(b,a%b):a;
 }

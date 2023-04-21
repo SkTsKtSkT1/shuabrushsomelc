@@ -1,11 +1,11 @@
 #include <iostream>
-#include "Prepare/leetcode443.h"
+#include "Prepare/leetcode643.h"
 
 int main() {
-    leetcode443 lc443;
-    vector<char> chars = {'a', 'a', 'a', 'b', 'b', 'a', 'a'};
-    std::cout << lc443.compress(chars);
-
+    leetcode643 lc643;
+    vector<int> nums={0,4,0,3,2};
+    int k=1;
+    std::cout<<lc643.findMaxAverage(nums,k)<<'\n';
     return 0;
 }
 
