@@ -1,11 +1,10 @@
 #include <iostream>
-#include "Prepare/leetcode643.h"
+#include "Prepare/leetcode1493.h"
 
 int main() {
-    leetcode643 lc643;
-    vector<int> nums={0,4,0,3,2};
-    int k=1;
-    std::cout<<lc643.findMaxAverage(nums,k)<<'\n';
+    leetcode1493 lc1493;
+    vector<int> nums={1,1,0,1};
+    std::cout<<lc1493.longestSubarray(nums);
     return 0;
 }
 
