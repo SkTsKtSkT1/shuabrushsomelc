@@ -2,6 +2,7 @@
 // Created by skt on 2023/4/22.
 //
 
+#include <algorithm>
 #include "leetcode1732_twice.h"
 
 int leetcode1732_twice::largestAltitude_twice(vector<int> &gain) {

@@ -1,10 +1,11 @@
 #include <iostream>
-#include "Prepare/leetcode1493.h"
+#include "simple/leetcode2418.h"
 
 int main() {
-    leetcode1493 lc1493;
-    vector<int> nums={1,1,0,1};
-    std::cout<<lc1493.longestSubarray(nums);
+    leetcode2418 lc2418;
+    vector<string> names={"Mary","John","Emma"};
+    vector<int> heights={180,165,175};
+    lc2418.sortPeople(names,heights);
     return 0;
 }
 
