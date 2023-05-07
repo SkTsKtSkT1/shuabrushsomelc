@@ -1,16 +1,11 @@
 #include <iostream>
-#include "simple/leetcode2432.h"
+#include "middle/leetcode1010.h"
 
 int main() {
-    leetcode2432 lc2432;
-    vector<vector<int>> logs={
-            {1,1},
-            {3,7},
-            {2,12},
-            {7,17}
-    };
-    int n=26;
-    std::cout<<lc2432.hardestWorker(n,logs)<<'\n';
+    leetcode1010 lc1010;
+    vector<int> time{15,63,451,213,37,209,343,319};
+
+    std::cout<<lc1010.numPairsDivisibleBy60(time)<<'\n';
     return 0;
 }
 
