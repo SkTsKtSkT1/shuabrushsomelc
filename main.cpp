@@ -1,11 +1,10 @@
 #include <iostream>
-#include "middle/leetcode1010.h"
+#include "prepare/leetcode394.h"
 
 int main() {
-    leetcode1010 lc1010;
-    vector<int> time{15,63,451,213,37,209,343,319};
-
-    std::cout<<lc1010.numPairsDivisibleBy60(time)<<'\n';
+    leetcode394 lc394;
+    string s= "3[a]2[b]";
+    std::cout<<lc394.decodeString(s)<<'\n';
     return 0;
 }
 
