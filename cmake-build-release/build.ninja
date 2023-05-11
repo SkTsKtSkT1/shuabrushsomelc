@@ -51,1059 +51,1083 @@ build cmake_object_order_depends_target_Algorithm: phony || CMakeFiles/Algorithm
 
 build CMakeFiles/Algorithm.dir/main.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/main.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\main.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/halfFind.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/halfFind.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\halfFind.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode46.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/dfswithcutleaf/leetcode46.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\dfswithcutleaf\leetcode46.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\dfswithcutleaf
 
 build CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode47.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/dfswithcutleaf/leetcode47.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\dfswithcutleaf\leetcode47.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\dfswithcutleaf
 
 build CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode39.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/dfswithcutleaf/leetcode39.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\dfswithcutleaf\leetcode39.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\dfswithcutleaf
 
 build CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode40.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/dfswithcutleaf/leetcode40.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\dfswithcutleaf\leetcode40.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\dfswithcutleaf
 
 build CMakeFiles/Algorithm.dir/simple/leetcode658.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode658.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode658.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/simple/leetcode661.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode661.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode661.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/simple/leetcode665.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode665.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode665.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1464.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1464.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1464.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/Tree/leetcode662/leetcode662.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Tree/leetcode662/leetcode662.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Tree\leetcode662\leetcode662.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Tree\leetcode662
 
 build CMakeFiles/Algorithm.dir/leetcode793.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode793.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode793.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode794.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode794.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode794.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1470.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1470.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1470.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode1471.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode1471.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode1471.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode946.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode946.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode946.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1475.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1475.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1475.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode687.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode687.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode687.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode646.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode646.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode646.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1582.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1582.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1582.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/Tree/leetcode652.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Tree/leetcode652.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Tree\leetcode652.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Tree
 
 build CMakeFiles/Algorithm.dir/leetcode828.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode828.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode828.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1592.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1592.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1592.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1598.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1598.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1598.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/simple/leetcode2389.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode2389.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode2389.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode2390.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode2390.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode2390.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode857.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode857.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode857.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode670.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode670.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode670.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1619.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1619.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1619.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode672.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode672.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode672.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode850.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode850.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode850.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1642.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1642.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1642.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode827.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode827.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode827.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1636.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1636.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1636.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode698.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/dfswithcutleaf/leetcode698.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\dfswithcutleaf\leetcode698.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\dfswithcutleaf
 
 build CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode854.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/dfswithcutleaf/leetcode854.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\dfswithcutleaf\leetcode854.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\dfswithcutleaf
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1640.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1640.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1640.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/LinkList/leetcode707.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/LinkList/leetcode707.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\LinkList\leetcode707.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\LinkList
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1652.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1652.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1652.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode788.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode788.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode788.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/Mianshi/mianshi17_19.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Mianshi/mianshi17_19.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Mianshi\mianshi17_19.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Mianshi
 
 build CMakeFiles/Algorithm.dir/Mianshi/mianshi01_02.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Mianshi/mianshi01_02.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Mianshi\mianshi01_02.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Mianshi
 
 build CMakeFiles/Algorithm.dir/Mianshi/mianshi17_09.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Mianshi/mianshi17_09.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Mianshi\mianshi17_09.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Mianshi
 
 build CMakeFiles/Algorithm.dir/Mianshi/mianshi01_09.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Mianshi/mianshi01_09.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Mianshi\mianshi01_09.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Mianshi
 
 build CMakeFiles/Algorithm.dir/Mianshi/mianshi01_08.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Mianshi/mianshi01_08.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Mianshi\mianshi01_08.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Mianshi
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1694.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1694.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1694.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode777.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode777.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode777.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode769.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode769.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode769.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode940.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode940.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode940.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode1441.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode1441.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode1441.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode904.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode904.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode904.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode886.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode886.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode886.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode902.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode902.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode902.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1700.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1700.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1700.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode779.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode779.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode779.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode901.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode901.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode901.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode1235.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode1235.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode1235.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1768.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1768.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1768.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode915.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode915.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode915.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode934.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode934.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode934.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode862.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode862.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode862.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1822.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1822.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1822.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode907.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode907.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode907.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1773.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1773.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1773.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode784.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode784.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode784.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode481.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode481.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode481.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1662.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1662.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1662.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode1620.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode1620.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode1620.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1688.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1688.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1688.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode754.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode754.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode754.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode1106.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode1106.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode1106.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1678.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1678.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1678.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode816.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode816.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode816.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1684.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1684.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1684.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode764.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode764.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode764.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode864.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode864.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode864.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1704.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1704.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1704.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode790.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode790.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode790.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode791.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode791.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode791.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode805.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode805.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode805.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1710.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1710.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1710.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode775.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode775.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode775.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode792.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode792.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode792.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode891.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/dfswithcutleaf/leetcode891.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\dfswithcutleaf\leetcode891.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\dfswithcutleaf
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1732.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1732.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1732.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode799.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode799.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode799.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode808.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode808.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode808.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode878.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode878.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode878.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1742.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1742.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1742.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode795.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode795.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode795.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode809.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode809.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode809.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/graph/leetcode882.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/graph/leetcode882.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\graph\leetcode882.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\graph
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1752.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1752.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1752.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode813.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode813.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode813.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1758.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1758.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1758.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode895.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode895.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode895.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1779.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1779.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1779.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/letcode1769.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/letcode1769.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\letcode1769.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1796.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1796.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1796.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/leetcode1774.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode1774.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode1774.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/leetcode1687.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode1687.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode1687.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode1805.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode1805.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode1805.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/middle/leetcode831.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode831.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode831.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1039.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1039.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1039.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1053.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1053.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1053.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/hard/leetcode1000.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/hard/leetcode1000.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\hard\leetcode1000.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\hard
 
 build CMakeFiles/Algorithm.dir/simple/leetcode2427.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode2427.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode2427.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1578.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1578.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1578.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1017.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1017.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1017.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1040.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1040.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1040.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/hard/leetcode1125.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/hard/leetcode1125.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\hard\leetcode1125.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\hard
 
 build CMakeFiles/Algorithm.dir/simple/leetcode2399.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode2399.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode2399.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1019.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1019.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1019.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1041.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1041.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1041.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/hard/leetcode1147.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/hard/leetcode1147.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\hard\leetcode1147.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\hard
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode2071.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode2071.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode2071.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode227.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode227.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode227.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode46double.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode46double.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode46double.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/simple/leetcode2404.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode2404.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode2404.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode74.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode74.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode74.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode240.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode240.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode240.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode678.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode678.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode678.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode739.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode739.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode739.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1023.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1023.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1023.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1042.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1042.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1042.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/leetcode1157.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/leetcode1157.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\leetcode1157.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
 build CMakeFiles/Algorithm.dir/simple/leetcode2409.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode2409.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode2409.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1026.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1026.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1026.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1043.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1043.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1043.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode238.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode238.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode238.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode443.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode443.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode443.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/middle/leetcode334.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode334.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode334.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/simple/leetcode283.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode283.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode283.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/hard/leetcode1187.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/hard/leetcode1187.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\hard\leetcode1187.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\hard
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode392.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode392.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode392.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode11.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode11.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode11.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode1679.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode1679.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode1679.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/simple/leetcode2413.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode2413.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode2413.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode643.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode643.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode643.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode1004.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode1004.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode1004.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode1456.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode1456.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode1456.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1027.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1027.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1027.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode1493.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode1493.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode1493.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode1732_twice.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode1732_twice.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode1732_twice.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode724.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode724.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode724.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode1207.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode1207.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode1207.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode2215.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode2215.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode2215.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode1657.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode1657.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode1657.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1105.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1105.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1105.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/hard/leetcode1163.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/hard/leetcode1163.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\hard\leetcode1163.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\hard
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode2352.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode2352.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode2352.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode2390Twice.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode2390Twice.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode2390Twice.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode735.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode735.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode735.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/simple/leetcode2418.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode2418.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode2418.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode101.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode101.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode101.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode45.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode45.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode45.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1031.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1031.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1031.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1048.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1048.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1048.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/hard/leetcode1172.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/hard/leetcode1172.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\hard\leetcode1172.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\hard
 
 build CMakeFiles/Algorithm.dir/simple/leetcode2423.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode2423.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode2423.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1033.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1033.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1033.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1376.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1376.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1376.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/middle/leetcode970.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode970.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode970.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1003.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1003.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1003.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/hard/leetcode2106.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/hard/leetcode2106.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\hard\leetcode2106.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\hard
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcodeLCP74.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcodeLCP74.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcodeLCP74.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/simple/leetcode2432.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode2432.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode2432.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1419.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1419.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1419.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/middle/leetcode1010.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1010.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1010.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 build CMakeFiles/Algorithm.dir/hard/leetcode1263.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/hard/leetcode1263.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\hard\leetcode1263.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\hard
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode394.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode394.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode394.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/simple/leetcode2437.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/simple/leetcode2437.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\simple\leetcode2437.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\simple
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode933.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode933.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode933.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode649.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode649.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode649.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode2095.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode2095.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode2095.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
 
 build CMakeFiles/Algorithm.dir/Prepare/leetcode328.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode328.cpp || cmake_object_order_depends_target_Algorithm
   DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode328.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
+
+build CMakeFiles/Algorithm.dir/middle/leetcode1015.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1015.cpp || cmake_object_order_depends_target_Algorithm
+  DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1015.cpp.obj.d
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles\Algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
+
+build CMakeFiles/Algorithm.dir/Prepare/leetcode206.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode206.cpp || cmake_object_order_depends_target_Algorithm
+  DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode206.cpp.obj.d
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles\Algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
+
+build CMakeFiles/Algorithm.dir/Prepare/leetcode2130.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/Prepare/leetcode2130.cpp || cmake_object_order_depends_target_Algorithm
+  DEP_FILE = CMakeFiles\Algorithm.dir\Prepare\leetcode2130.cpp.obj.d
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles\Algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\Prepare
+
+build CMakeFiles/Algorithm.dir/middle/leetcode1016.cpp.obj: CXX_COMPILER__Algorithm_Release I$:/CLion/shuabrushsomelc/middle/leetcode1016.cpp || cmake_object_order_depends_target_Algorithm
+  DEP_FILE = CMakeFiles\Algorithm.dir\middle\leetcode1016.cpp.obj.d
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles\Algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir\middle
 
 
 # =============================================================================
@@ -1113,7 +1137,7 @@ build CMakeFiles/Algorithm.dir/Prepare/leetcode328.cpp.obj: CXX_COMPILER__Algori
 #############################################
 # Link the executable Algorithm.exe
 
-build Algorithm.exe: CXX_EXECUTABLE_LINKER__Algorithm_Release CMakeFiles/Algorithm.dir/main.cpp.obj CMakeFiles/Algorithm.dir/simple/halfFind.cpp.obj CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode46.cpp.obj CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode47.cpp.obj CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode39.cpp.obj CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode40.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode658.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode661.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode665.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1464.cpp.obj CMakeFiles/Algorithm.dir/Tree/leetcode662/leetcode662.cpp.obj CMakeFiles/Algorithm.dir/leetcode793.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode794.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1470.cpp.obj CMakeFiles/Algorithm.dir/leetcode1471.cpp.obj CMakeFiles/Algorithm.dir/leetcode946.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1475.cpp.obj CMakeFiles/Algorithm.dir/leetcode687.cpp.obj CMakeFiles/Algorithm.dir/leetcode646.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1582.cpp.obj CMakeFiles/Algorithm.dir/Tree/leetcode652.cpp.obj CMakeFiles/Algorithm.dir/leetcode828.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1592.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1598.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2389.cpp.obj CMakeFiles/Algorithm.dir/leetcode2390.cpp.obj CMakeFiles/Algorithm.dir/leetcode857.cpp.obj CMakeFiles/Algorithm.dir/leetcode670.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1619.cpp.obj CMakeFiles/Algorithm.dir/leetcode672.cpp.obj CMakeFiles/Algorithm.dir/leetcode850.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1642.cpp.obj CMakeFiles/Algorithm.dir/leetcode827.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1636.cpp.obj CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode698.cpp.obj CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode854.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1640.cpp.obj CMakeFiles/Algorithm.dir/LinkList/leetcode707.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1652.cpp.obj CMakeFiles/Algorithm.dir/leetcode788.cpp.obj CMakeFiles/Algorithm.dir/Mianshi/mianshi17_19.cpp.obj CMakeFiles/Algorithm.dir/Mianshi/mianshi01_02.cpp.obj CMakeFiles/Algorithm.dir/Mianshi/mianshi17_09.cpp.obj CMakeFiles/Algorithm.dir/Mianshi/mianshi01_09.cpp.obj CMakeFiles/Algorithm.dir/Mianshi/mianshi01_08.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1694.cpp.obj CMakeFiles/Algorithm.dir/leetcode777.cpp.obj CMakeFiles/Algorithm.dir/leetcode769.cpp.obj CMakeFiles/Algorithm.dir/leetcode940.cpp.obj CMakeFiles/Algorithm.dir/leetcode1441.cpp.obj CMakeFiles/Algorithm.dir/leetcode904.cpp.obj CMakeFiles/Algorithm.dir/leetcode886.cpp.obj CMakeFiles/Algorithm.dir/leetcode902.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1700.cpp.obj CMakeFiles/Algorithm.dir/leetcode779.cpp.obj CMakeFiles/Algorithm.dir/leetcode901.cpp.obj CMakeFiles/Algorithm.dir/leetcode1235.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1768.cpp.obj CMakeFiles/Algorithm.dir/leetcode915.cpp.obj CMakeFiles/Algorithm.dir/leetcode934.cpp.obj CMakeFiles/Algorithm.dir/leetcode862.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1822.cpp.obj CMakeFiles/Algorithm.dir/leetcode907.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1773.cpp.obj CMakeFiles/Algorithm.dir/leetcode784.cpp.obj CMakeFiles/Algorithm.dir/leetcode481.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1662.cpp.obj CMakeFiles/Algorithm.dir/leetcode1620.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1688.cpp.obj CMakeFiles/Algorithm.dir/leetcode754.cpp.obj CMakeFiles/Algorithm.dir/leetcode1106.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1678.cpp.obj CMakeFiles/Algorithm.dir/leetcode816.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1684.cpp.obj CMakeFiles/Algorithm.dir/leetcode764.cpp.obj CMakeFiles/Algorithm.dir/leetcode864.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1704.cpp.obj CMakeFiles/Algorithm.dir/leetcode790.cpp.obj CMakeFiles/Algorithm.dir/leetcode791.cpp.obj CMakeFiles/Algorithm.dir/leetcode805.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1710.cpp.obj CMakeFiles/Algorithm.dir/leetcode775.cpp.obj CMakeFiles/Algorithm.dir/leetcode792.cpp.obj CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode891.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1732.cpp.obj CMakeFiles/Algorithm.dir/leetcode799.cpp.obj CMakeFiles/Algorithm.dir/leetcode808.cpp.obj CMakeFiles/Algorithm.dir/leetcode878.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1742.cpp.obj CMakeFiles/Algorithm.dir/leetcode795.cpp.obj CMakeFiles/Algorithm.dir/leetcode809.cpp.obj CMakeFiles/Algorithm.dir/graph/leetcode882.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1752.cpp.obj CMakeFiles/Algorithm.dir/leetcode813.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1758.cpp.obj CMakeFiles/Algorithm.dir/leetcode895.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1779.cpp.obj CMakeFiles/Algorithm.dir/letcode1769.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1796.cpp.obj CMakeFiles/Algorithm.dir/leetcode1774.cpp.obj CMakeFiles/Algorithm.dir/leetcode1687.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1805.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode831.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1039.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1053.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode1000.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2427.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1578.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1017.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1040.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode1125.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2399.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1019.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1041.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode1147.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode2071.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode227.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode46double.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2404.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode74.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode240.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode678.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode739.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1023.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1042.cpp.obj CMakeFiles/Algorithm.dir/leetcode1157.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2409.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1026.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1043.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode238.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode443.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode334.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode283.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode1187.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode392.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode11.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode1679.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2413.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode643.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode1004.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode1456.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1027.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode1493.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode1732_twice.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode724.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode1207.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode2215.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode1657.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1105.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode1163.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode2352.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode2390Twice.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode735.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2418.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode101.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode45.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1031.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1048.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode1172.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2423.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1033.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1376.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode970.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1003.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode2106.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcodeLCP74.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2432.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1419.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1010.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode1263.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode394.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2437.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode933.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode649.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode2095.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode328.cpp.obj
+build Algorithm.exe: CXX_EXECUTABLE_LINKER__Algorithm_Release CMakeFiles/Algorithm.dir/main.cpp.obj CMakeFiles/Algorithm.dir/simple/halfFind.cpp.obj CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode46.cpp.obj CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode47.cpp.obj CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode39.cpp.obj CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode40.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode658.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode661.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode665.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1464.cpp.obj CMakeFiles/Algorithm.dir/Tree/leetcode662/leetcode662.cpp.obj CMakeFiles/Algorithm.dir/leetcode793.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode794.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1470.cpp.obj CMakeFiles/Algorithm.dir/leetcode1471.cpp.obj CMakeFiles/Algorithm.dir/leetcode946.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1475.cpp.obj CMakeFiles/Algorithm.dir/leetcode687.cpp.obj CMakeFiles/Algorithm.dir/leetcode646.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1582.cpp.obj CMakeFiles/Algorithm.dir/Tree/leetcode652.cpp.obj CMakeFiles/Algorithm.dir/leetcode828.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1592.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1598.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2389.cpp.obj CMakeFiles/Algorithm.dir/leetcode2390.cpp.obj CMakeFiles/Algorithm.dir/leetcode857.cpp.obj CMakeFiles/Algorithm.dir/leetcode670.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1619.cpp.obj CMakeFiles/Algorithm.dir/leetcode672.cpp.obj CMakeFiles/Algorithm.dir/leetcode850.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1642.cpp.obj CMakeFiles/Algorithm.dir/leetcode827.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1636.cpp.obj CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode698.cpp.obj CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode854.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1640.cpp.obj CMakeFiles/Algorithm.dir/LinkList/leetcode707.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1652.cpp.obj CMakeFiles/Algorithm.dir/leetcode788.cpp.obj CMakeFiles/Algorithm.dir/Mianshi/mianshi17_19.cpp.obj CMakeFiles/Algorithm.dir/Mianshi/mianshi01_02.cpp.obj CMakeFiles/Algorithm.dir/Mianshi/mianshi17_09.cpp.obj CMakeFiles/Algorithm.dir/Mianshi/mianshi01_09.cpp.obj CMakeFiles/Algorithm.dir/Mianshi/mianshi01_08.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1694.cpp.obj CMakeFiles/Algorithm.dir/leetcode777.cpp.obj CMakeFiles/Algorithm.dir/leetcode769.cpp.obj CMakeFiles/Algorithm.dir/leetcode940.cpp.obj CMakeFiles/Algorithm.dir/leetcode1441.cpp.obj CMakeFiles/Algorithm.dir/leetcode904.cpp.obj CMakeFiles/Algorithm.dir/leetcode886.cpp.obj CMakeFiles/Algorithm.dir/leetcode902.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1700.cpp.obj CMakeFiles/Algorithm.dir/leetcode779.cpp.obj CMakeFiles/Algorithm.dir/leetcode901.cpp.obj CMakeFiles/Algorithm.dir/leetcode1235.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1768.cpp.obj CMakeFiles/Algorithm.dir/leetcode915.cpp.obj CMakeFiles/Algorithm.dir/leetcode934.cpp.obj CMakeFiles/Algorithm.dir/leetcode862.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1822.cpp.obj CMakeFiles/Algorithm.dir/leetcode907.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1773.cpp.obj CMakeFiles/Algorithm.dir/leetcode784.cpp.obj CMakeFiles/Algorithm.dir/leetcode481.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1662.cpp.obj CMakeFiles/Algorithm.dir/leetcode1620.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1688.cpp.obj CMakeFiles/Algorithm.dir/leetcode754.cpp.obj CMakeFiles/Algorithm.dir/leetcode1106.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1678.cpp.obj CMakeFiles/Algorithm.dir/leetcode816.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1684.cpp.obj CMakeFiles/Algorithm.dir/leetcode764.cpp.obj CMakeFiles/Algorithm.dir/leetcode864.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1704.cpp.obj CMakeFiles/Algorithm.dir/leetcode790.cpp.obj CMakeFiles/Algorithm.dir/leetcode791.cpp.obj CMakeFiles/Algorithm.dir/leetcode805.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1710.cpp.obj CMakeFiles/Algorithm.dir/leetcode775.cpp.obj CMakeFiles/Algorithm.dir/leetcode792.cpp.obj CMakeFiles/Algorithm.dir/dfswithcutleaf/leetcode891.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1732.cpp.obj CMakeFiles/Algorithm.dir/leetcode799.cpp.obj CMakeFiles/Algorithm.dir/leetcode808.cpp.obj CMakeFiles/Algorithm.dir/leetcode878.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1742.cpp.obj CMakeFiles/Algorithm.dir/leetcode795.cpp.obj CMakeFiles/Algorithm.dir/leetcode809.cpp.obj CMakeFiles/Algorithm.dir/graph/leetcode882.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1752.cpp.obj CMakeFiles/Algorithm.dir/leetcode813.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1758.cpp.obj CMakeFiles/Algorithm.dir/leetcode895.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1779.cpp.obj CMakeFiles/Algorithm.dir/letcode1769.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1796.cpp.obj CMakeFiles/Algorithm.dir/leetcode1774.cpp.obj CMakeFiles/Algorithm.dir/leetcode1687.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode1805.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode831.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1039.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1053.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode1000.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2427.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1578.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1017.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1040.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode1125.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2399.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1019.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1041.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode1147.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode2071.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode227.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode46double.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2404.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode74.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode240.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode678.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode739.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1023.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1042.cpp.obj CMakeFiles/Algorithm.dir/leetcode1157.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2409.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1026.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1043.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode238.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode443.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode334.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode283.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode1187.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode392.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode11.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode1679.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2413.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode643.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode1004.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode1456.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1027.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode1493.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode1732_twice.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode724.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode1207.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode2215.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode1657.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1105.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode1163.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode2352.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode2390Twice.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode735.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2418.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode101.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode45.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1031.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1048.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode1172.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2423.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1033.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1376.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode970.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1003.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode2106.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcodeLCP74.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2432.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1419.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1010.cpp.obj CMakeFiles/Algorithm.dir/hard/leetcode1263.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode394.cpp.obj CMakeFiles/Algorithm.dir/simple/leetcode2437.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode933.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode649.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode2095.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode328.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1015.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode206.cpp.obj CMakeFiles/Algorithm.dir/Prepare/leetcode2130.cpp.obj CMakeFiles/Algorithm.dir/middle/leetcode1016.cpp.obj
   FLAGS = -O3 -DNDEBUG
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Algorithm.dir
