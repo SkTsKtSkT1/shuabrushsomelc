@@ -13,10 +13,10 @@ public:
     int hight=0;
     std::queue<int> q;
     leetcode933(){
-    }
+    };
 
     int ping(int t);
-}
+};
 
 
 #endif //ALGORITHM_LEETCODE933_H
