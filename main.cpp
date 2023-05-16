@@ -1,16 +1,11 @@
 #include <iostream>
-#include "middle/leetcode1072.h"
+#include "hard/leetcode1335.h"
 
 int main() {
-    leetcode1072 lc1072;
-    vector<vector<int>> matrix={
-            {1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1},
-            {1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0},
-            {1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1},
-            {1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0},
-            {1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1}
-    };
-    std::cout<<lc1072.maxEqualRowsAfterFlips(matrix)<<'\n';
+    leetcode1335 lc1335;
+    vector<int> jobDifficulty = {6,5,4,3,2,1};
+    int d = 2;
+    std::cout<<lc1335.minDifficulty(jobDifficulty,d);
     return 0;
 }
 
