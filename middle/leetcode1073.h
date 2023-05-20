@@ -9,7 +9,7 @@ using std::vector;
 
 class leetcode1073 {
 public:
-    vector<int> addNegabinary(vector<int>& arr1, vector<int>& arr2)
+    vector<int> addNegabinary(vector<int>& arr1, vector<int>& arr2);
 };
 
 
