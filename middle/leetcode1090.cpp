@@ -4,8 +4,9 @@
 
 #include "leetcode1090.h"
 #include "algorithm"
+#include "iostream"
 #include "unordered_map"
-
+#include "memory"
 using std::vector;
 int leetcode1090::largestValsFromLabels(std::vector<int> &values, std::vector<int> &labels, int numWanted, int useLimit) {
     int n = values.size(), res = 0, k = 0;
