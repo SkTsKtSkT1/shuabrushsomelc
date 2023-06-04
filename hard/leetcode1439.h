@@ -9,7 +9,7 @@
 class leetcode1439 {
 public:
     int kthSmallest(std::vector<std::vector<int>>& mat, int k);
-    bool dfs(std::vector<std::vector<int>> &mat, int &left_k, int i, int s)
+    bool dfs(std::vector<std::vector<int>> &mat, int &left_k, int i, int s);
 };
 
 

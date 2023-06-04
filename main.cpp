@@ -1,10 +1,10 @@
 #include <iostream>
-#include "middle/leetcode1079.h"
+#include "middle/leetcode1156.h"
 
 int main() {
-    leetcode1079 lc1079;
-    std::string tiles="AAB";
-    std::cout<<lc1079.numTilePossibilities(tiles);
+    leetcode1156 lc1156;
+    std::string text="ababa";
+    std::cout<<lc1156.maxRepOpt1(text);
     return 0;
 }
 

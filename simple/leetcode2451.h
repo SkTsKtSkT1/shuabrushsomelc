@@ -10,7 +10,7 @@
 
 class leetcode2451 {
 public:
-    std::string oddString(std::vector<std::string>& words)
+    std::string oddString(std::vector<std::string>& words);
 };
 
 

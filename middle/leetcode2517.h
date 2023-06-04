@@ -8,7 +8,7 @@
 
 class leetcode2517 {
 public:
-    int maximumTastiness(std::vector<int>& price, int k)
+    int maximumTastiness(std::vector<int>& price, int k);
 };
 
 
