@@ -17,11 +17,13 @@ leetcode2699::modifiedGraphEdges(int n, std::vector<std::vector<int>> &edges, in
     }
 
     int dis[n][2], delta, vis[n];
-    memset(dis, 0x3f, sizeof(dis));
+    std::memset(dis, 0x3f, sizeof(dis));
     dis[source][0] = dis[source][1] = 0;
 
     std::function<void(int)> dijkstra = [&](int k) -> void{
-        memset(vis, 0, sizeof(vis));
+        for(int i = 0; i < n ; i++){
+            vis[i] = 0;
+        }
         for(;;){
             int x = -1;
             for(int i = 0; i < n; ++i){
