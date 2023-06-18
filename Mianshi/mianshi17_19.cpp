@@ -94,4 +94,5 @@ std::ostream &mianshi17_19::operator<<(const vector<int> &nums) {
         std::cout<<*it<<" ";
     }
     std::cout<<std::endl;
+    return std::cout;
 }

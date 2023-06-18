@@ -37,4 +37,5 @@ bool leetcode794::win(std::vector<std::string> &board, char p) {
         return (board[0][0] == p && board[1][1] == p && board[2][2] == p)
                || (board[2][0] == p && board[1][1] == p && board[0][2] == p);//对角线
     }
+    return false;
 }

@@ -24,4 +24,5 @@ std::ostream& leetcode1636::operator<<(vector<int> a){
         std::cout<<(*_)<<" ";
     }
     std::cout<<std::endl;
+    return std::cout;
 }

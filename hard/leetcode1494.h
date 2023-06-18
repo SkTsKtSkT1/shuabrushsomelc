@@ -9,7 +9,7 @@
 
 class leetcode1494 {
 public:
-    int minNumberOfSemesters(int n, std::vector<std::vector<int>>& relations, int k)
+    int minNumberOfSemesters(int n, std::vector<std::vector<int>>& relations, int k);
 };
 
 

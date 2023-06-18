@@ -29,4 +29,5 @@ std::ostream &leetcode1652::operator<<(vector<int> v) {
         std::cout<<it<<" ";
     }
     std::cout<<std::endl;
+    return std::cout;
 }

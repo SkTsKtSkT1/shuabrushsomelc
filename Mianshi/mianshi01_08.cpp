@@ -75,4 +75,5 @@ std::ostream &mianshi01_08::operator<<(const vector<vector<int>> &mat) {
         }
         std::cout<<std::endl;
     }
+    return std::cout;
 }

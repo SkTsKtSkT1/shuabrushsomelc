@@ -15,5 +15,7 @@ int leetcode779::kthGrammar(int n, int k) {
     } else if(bef==1){
         if(k%2==0) return 0;
         else return 1;
+    }else{
+        return -1;
     }
 }

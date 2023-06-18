@@ -27,4 +27,5 @@ std::ostream &leetcode1441::operator<<(vector<string> s) {
     for(vector<string>::iterator _=s.begin();_!=s.end();_++){
         std::cout<<*(_)<<std::endl;
     }
+    return std::cout;
 }

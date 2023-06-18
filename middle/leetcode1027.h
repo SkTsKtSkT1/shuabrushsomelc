@@ -5,7 +5,7 @@
 #ifndef ALGORITHM_LEETCODE1027_H
 #define ALGORITHM_LEETCODE1027_H
 
-#include "vector";
+#include "vector"
 using std::vector;
 class leetcode1027 {
 public:

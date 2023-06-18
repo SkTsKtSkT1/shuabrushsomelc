@@ -5,7 +5,7 @@
 #ifndef ALGORITHM_LEETCODE1041_H
 #define ALGORITHM_LEETCODE1041_H
 
-#include "string";
+#include "string"
 using std::string;
 
 class leetcode1041 {

@@ -9,7 +9,7 @@
 
 class leetcode1177 {
 public:
-    std::vector<bool> canMakePaliQueries(std::string s, std::vector<std::vector<int>>& queries)
+    std::vector<bool> canMakePaliQueries(std::string s, std::vector<std::vector<int>>& queries);
 };
 
 
