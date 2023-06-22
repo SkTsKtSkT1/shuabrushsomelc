@@ -5,7 +5,7 @@
 #include "LCP41.h"
 #include "functional"
 #include "queue"
-
+//https://leetcode.cn/problems/fHi6rV/solution/python3javacgo-yi-ti-yi-jie-bfs-by-lcbin-e4vo/
 int LCP41::flipChess(std::vector<std::string> &chessboard) {
     int m = chessboard.size();
     int n = chessboard[0].size();

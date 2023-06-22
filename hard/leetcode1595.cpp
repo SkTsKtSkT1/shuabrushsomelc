@@ -10,7 +10,7 @@ int leetcode1595::connectTwoGroups(std::vector<std::vector<int>> &cost) {
     int n = cost.size(), m = cost[0].size();
     std::vector<int> min_cost(m, INT_MAX);
     for (int j = 0; j < m; j++)
-        for (auto &c··········································································································: cost)
+        for (auto &c: cost)
             min_cost[j] = std::min(min_cost[j], c[j]);
 
     std::vector<std::vector<int>> memo(n, std::vector<int>(1 << m, INT_MAX));
