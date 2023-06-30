@@ -3,7 +3,7 @@
 //
 
 #include "leetcode1253.h"
-
+//贪心：优先放剩余和更大的那一行。如果分配完了就是两个和均为0，否则无法构造
 std::vector<std::vector<int>> leetcode1253::reconstructMatrix(int upper, int lower, std::vector<int> &colsum) {
     int n = colsum.size();
     std::vector<std::vector<int>> ans(2, std::vector<int>(n, 0));
