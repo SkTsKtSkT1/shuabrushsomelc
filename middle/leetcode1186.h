@@ -8,7 +8,7 @@
 
 class leetcode1186 {
 public:
-    int maximumSum(std::vector<int>& arr)
+    int maximumSum(std::vector<int>& arr);
 };
 
 

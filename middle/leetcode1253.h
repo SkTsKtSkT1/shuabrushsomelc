@@ -8,7 +8,7 @@
 
 class leetcode1253 {
 public:
-    std::vector<std::vector<int>> reconstructMatrix(int upper, int lower, std::vector<int>& colsum)
+    std::vector<std::vector<int>> reconstructMatrix(int upper, int lower, std::vector<int>& colsum);
 };
 
 

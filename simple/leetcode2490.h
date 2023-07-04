@@ -9,7 +9,7 @@
 
 class leetcode2490 {
 public:
-    bool isCircularSentence(std::string sentence)
+    bool isCircularSentence(std::string sentence);
 };
 
 

@@ -1,19 +1,15 @@
 #include <iostream>
-#include "mianshi/mianshi_16_19.h"
+#include "middle/leetcode2679.h"
 
 int main() {
-    mianshi_16_19 ms_16_19;
-    std::vector<std::vector<int>> land = {
-            {0, 2, 1, 0},
-            {0, 1, 0, 1},
-            {1, 1, 0, 1},
-            {0, 1, 0, 1}
+    leetcode2679 lc2679;
+    std::vector<std::vector<int>> nums = {
+            {7, 2, 1},
+            {6, 4, 2},
+            {6, 5, 3},
+            {3, 2, 1}
     };
-    std::vector<int> res= ms_16_19.pondSizes(land);
-    for(std::vector<int>::iterator it = res.begin(); it != res.end(); ++it){
-        std::cout<< *it << '\t';
-    }
-    std::cout<<std::endl;
+    std::cout << lc2679.matrixSum(nums) << std::endl;
     return 0;
 }
 
