@@ -5,6 +5,7 @@
 #include "leetcode1659.h"
 #include "cmath"
 #include "cstring"
+#include "algorithm"
 //detail:https://leetcode.cn/problems/maximize-grid-happiness/solutions/692722/1659-cchao-xiang-xi-bao-hui-de-dong-tai-9ctdj/
 int leetcode1659::getMaxGridHappiness(int m, int n, int introvertsCount, int extrovertsCount) {
     int differTable[3][3] = {0, 0 , 0, 0, -60, -10, 0, -10, 40};

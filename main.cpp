@@ -1,15 +1,10 @@
 #include <iostream>
-#include "middle/leetcode2679.h"
+#include "simple/leetcode2544.h"
 
 int main() {
-    leetcode2679 lc2679;
-    std::vector<std::vector<int>> nums = {
-            {7, 2, 1},
-            {6, 4, 2},
-            {6, 5, 3},
-            {3, 2, 1}
-    };
-    std::cout << lc2679.matrixSum(nums) << std::endl;
+    leetcode2544 lc2544;
+    int n = 521;
+    std::cout<< lc2544.alternateDigitSum(n) << std::endl;
     return 0;
 }
 
