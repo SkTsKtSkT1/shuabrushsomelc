@@ -1,10 +1,10 @@
 #include <iostream>
-#include "simple/leetcode2544.h"
+#include "simple/leetcode415.h"
 
 int main() {
-    leetcode2544 lc2544;
-    int n = 521;
-    std::cout<< lc2544.alternateDigitSum(n) << std::endl;
+    leetcode415 lc415;
+    std::string num1 = "11", num2 = "123";
+    std::cout << lc415.addStrings(num1, num2) << std::endl;
     return 0;
 }
 
