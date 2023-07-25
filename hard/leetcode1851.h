@@ -8,7 +8,7 @@
 #include "vector"
 class leetcode1851 {
 public:
-    std::vector<int> minInterval(std::vector<std::vector<int>>& intervals, std::vector<int>& queries)
+    std::vector<int> minInterval(std::vector<std::vector<int>>& intervals, std::vector<int>& queries);
 };
 
 
