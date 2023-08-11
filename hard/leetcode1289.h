@@ -8,7 +8,7 @@
 #include "vector"
 class leetcode1289 {
 public:
-    int minFallingPathSum(std::vector<std::vector<int>>& grid)
+    int minFallingPathSum(std::vector<std::vector<int>>& grid);
 };
 
 
