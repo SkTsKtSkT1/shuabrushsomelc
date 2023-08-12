@@ -7,10 +7,10 @@
 #include "queue"
 
 ListNode *leetcode23::mergeKLists(std::vector<ListNode *> &lists) {
-    auto cmp = [](const ListNode* a, const ListNode* b)->bool{
+    auto cmp = [](const ListNode* a, const ListNode* b){
         return a->val > b->val;
     };
-    std::priority_queue<ListNode*, std::vector<ListNode*>, decltype(cmp)> pq;
+    std::priority_queue<ListNode*, std::vector<ListNode*>, decltype(cmp)> pq(cmp);
     for(auto head : lists){
         if(head){
             pq.push(head);
