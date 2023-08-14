@@ -1,16 +1,15 @@
 #include <iostream>
-#include "simple/leetcode88.h"
+#include "middle/leetcode833.h"
 
 int main(int argc, char** argv){
-    leetcode88 lc88;
+    leetcode833 lc833;
+    std::string s = "abcd";
+    std::vector<int> indexes = {0, 2};
+    std::vector<std::string> sources = {"ab", "ec"};
+    std::vector<std::string> targets = {"eee", "ffff"};
 
-    std::vector<int> nums1 = {1, 2, 3, 0, 0, 0};
-    std::vector<int> nums2 = {2, 5, 6};
-    int m = 3, n = 3;
-    lc88.merge(nums1, m, nums2, n);
-    for(auto i : nums1){
-        std::cout << i << " ";
-    }
+    std::cout << lc833.findReplaceString(s, indexes, sources, targets) << std::endl;
+    return 0;
 }
 
 //int main() {
