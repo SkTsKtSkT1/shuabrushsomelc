@@ -1,14 +1,12 @@
 #include <iostream>
-#include "middle/leetcode833.h"
+#include "middle/leetcode2337.h"
 
 int main(int argc, char** argv){
-    leetcode833 lc833;
-    std::string s = "abcd";
-    std::vector<int> indexes = {0, 2};
-    std::vector<std::string> sources = {"ab", "ec"};
-    std::vector<std::string> targets = {"eee", "ffff"};
+    leetcode2337 lc2337;
+    std::string start = "_L__R__R_";
+    std::string target = "L______RR";
 
-    std::cout << lc833.findReplaceString(s, indexes, sources, targets) << std::endl;
+    std::cout << lc2337.canChange(start, target) << std::endl;
     return 0;
 }
 
