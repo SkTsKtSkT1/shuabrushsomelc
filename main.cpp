@@ -1,12 +1,10 @@
 #include <iostream>
-#include "middle/leetcode2337.h"
+#include "middle/leetcode849.h"
 
-int main(int argc, char** argv){
-    leetcode2337 lc2337;
-    std::string start = "_L__R__R_";
-    std::string target = "L______RR";
-
-    std::cout << lc2337.canChange(start, target) << std::endl;
+int main(int argc, char **argv) {
+    leetcode849 lc849;
+    std::vector<int> seats = {0, 1};
+    std::cout << lc849.maxDistToClosest(seats) << std::endl;
     return 0;
 }
 
