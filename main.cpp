@@ -1,10 +1,13 @@
 #include <iostream>
-#include "middle/leetcode849.h"
+#include "simple/leetcode228.h"
 
 int main(int argc, char **argv) {
-    leetcode849 lc849;
-    std::vector<int> seats = {0, 1};
-    std::cout << lc849.maxDistToClosest(seats) << std::endl;
+    leetcode228 lc228;
+    std::vector<int> nums = {-2147483648,-2147483647,2147483647};
+    std::vector<std::string> res = lc228.summaryRanges(nums);
+    for(auto it = res.begin(); it != res.end(); ++it){
+        std::cout << *it << std::endl;
+    }
     return 0;
 }
 
