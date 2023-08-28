@@ -39,4 +39,8 @@ add_executable(Algorithm main.cpp simple/halfFind.cpp simple/halfFind.h dfswithc
         simple/leetcode2235.cpp
         simple/leetcode2235.h
         simple/leetcode2236.cpp
-        simple/leetcode2236.h middle/leetcode2337.cpp middle/leetcode2337.h middle/leetcode849.cpp middle/leetcode849.h hard/leetcode1782.cpp hard/leetcode1782.h middle/leetcode1267.cpp middle/leetcode1267.h middle/leetcode1448.cpp middle/leetcode1448.h simple/leetcode228.cpp simple/leetcode228.h)
+        simple/leetcode2236.h middle/leetcode2337.cpp middle/leetcode2337.h middle/leetcode849.cpp middle/leetcode849.h hard/leetcode1782.cpp hard/leetcode1782.h middle/leetcode1267.cpp middle/leetcode1267.h middle/leetcode1448.cpp middle/leetcode1448.h simple/leetcode228.cpp simple/leetcode228.h
+        middle/leetcode56.cpp
+        middle/leetcode56.h
+        middle/leetcode57.cpp
+        middle/leetcode57.h)
