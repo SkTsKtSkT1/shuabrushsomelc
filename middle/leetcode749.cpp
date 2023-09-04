@@ -4,6 +4,7 @@
 
 #include "leetcode749.h"
 #include <cstring>
+#include "cmath"
 //use dp, dp[i] 表示以nums[i]结尾的子数组的最大和的绝对值
 //dp[i + 1] = std::max(dp[i] + nums[i + 1], nums[i + 1])
 //dp[0] = 0

@@ -3,6 +3,7 @@
 //
 
 #include "leetcode1761.h"
+#include "climits"
 
 int leetcode1761::minTrioDegree(int n, std::vector<std::vector<int>> &edges) {
     std::vector<std::vector<int>> g(n, std::vector<int>(n));
