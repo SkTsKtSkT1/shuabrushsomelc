@@ -4,6 +4,8 @@
 
 #include "leetcode2594.h"
 #include <numeric>
+#include <algorithm>
+#include <cmath>
 long long leetcode2594::repairCars(std::vector<int> &ranks, int cars) {
     long long curTime = *std::min_element(ranks.begin(), ranks.end()) * (cars * cars);
     long long left = 0, right = curTime;

@@ -13,6 +13,7 @@ bool leetcode2596::checkValidGrid(std::vector<std::vector<int>> &grid) {
     int i = 0;
     int cur_x = 0, cur_y = 0;
     for(int k = 0; k <= end; ++k){
+        bool changed = false;
         for(int j = 0; j < 8; ++j){
             int new_x = cur_x + dir_x[j];
             int new_y = cur_y + dir_y[j];
@@ -23,7 +24,11 @@ bool leetcode2596::checkValidGrid(std::vector<std::vector<int>> &grid) {
                 i += 1;
                 cur_x = new_x;
                 cur_y = new_y;
+                changed = true;
             }
+        }
+        if(!changed){
+            return false;
         }
     }
     return grid[cur_x][cur_y] == end;
