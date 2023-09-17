@@ -1,4 +1,4 @@
 E:\Jetbrains\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=E:/Jetbrains/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S I:\CLion\shuabrushsomelc -B I:\CLion\shuabrushsomelc\cmake-build-release
--- Configuring done (7.8s)
+-- Configuring done (5.9s)
 -- Generating done (0.0s)
 -- Build files have been written to: I:/CLion/shuabrushsomelc/cmake-build-release
