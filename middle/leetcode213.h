@@ -13,5 +13,4 @@ public:
     int rob(std::vector<int>& nums);
 };
 
-
 #endif //ALGORITHM_LEETCODE213_H
