@@ -1,13 +1,12 @@
 #include <iostream>
-#include "simple/leetcode228.h"
+#include "middle/leetcode1993.h"
+
 
 int main(int argc, char **argv) {
-    leetcode228 lc228;
-    std::vector<int> nums = {-2147483648,-2147483647,2147483647};
-    std::vector<std::string> res = lc228.summaryRanges(nums);
-    for(auto it = res.begin(); it != res.end(); ++it){
-        std::cout << *it << std::endl;
-    }
+    std::vector<int> r = {-1, 0, 0, 1, 1, 2, 2};
+    LockingTree lcTree(r);
+    std::cout << lcTree.lock(2, 2) << std::endl;
+    std::cout << lcTree.unlock(2, 3);
     return 0;
 }
 
